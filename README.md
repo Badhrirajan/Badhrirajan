@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 <h1 align="center">Hi 👋, I'm Badhrirajan</h1>
 <h3 align="center">A passionate developer from India. Currently looking an opportunity in IT Industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
